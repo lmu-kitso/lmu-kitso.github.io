@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LMU KITSO - AI assisted therapy decisions in oncology</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <description>LMU KITSO - AI assisted therapy decisions in oncology</description>
+    <title>KITSO Research Group</title>
+    <link>http://localhost:40295/</link>
+      <atom:link href="http://localhost:40295/index.xml" rel="self" type="application/rss+xml" />
+    <description>KITSO Research Group</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_c50953f9b5492ab1.png</url>
-      <title>LMU KITSO - AI assisted therapy decisions in oncology</title>
-      <link>http://localhost:1313/</link>
+      <url>http://localhost:40295/media/icon_hu_c50953f9b5492ab1.png</url>
+      <title>KITSO Research Group</title>
+      <link>http://localhost:40295/</link>
     </image>
     
     <item>
       <title>Example Event</title>
-      <link>http://localhost:1313/event/example/</link>
+      <link>http://localhost:40295/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/example/</guid>
+      <guid>http://localhost:40295/event/example/</guid>
       <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
@@ -28,108 +28,152 @@
     </item>
     
     <item>
+      <title>Lab Christmas Social 2025</title>
+      <link>http://localhost:40295/post/25-12-04-christmas/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40295/post/25-12-04-christmas/</guid>
+      <description>&lt;p&gt;Kitso lab members spent a fun late afternoon at Munich’s Christmas markets and concluded the evening at a Bavarian Wirtshaus. Merry Christmas!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kitso @ LMU RadOnc Octoberfest Social 2025</title>
+      <link>http://localhost:40295/post/25-09-23-wiesn/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40295/post/25-09-23-wiesn/</guid>
+      <description>&lt;p&gt;Kitso gathered for the Radiation Oncology department&amp;rsquo;s annual Oktoberfest outing. Great food and even better company to kick off fall!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>12th Munich Cancer Retreat</title>
+      <link>http://localhost:40295/post/25-07-25-dktk_retreat/</link>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40295/post/25-07-25-dktk_retreat/</guid>
+      <description>&lt;p&gt;Kristian and lab members attended the 12th Munich Cancer Retreat of the German Cancer Consortium (DKTK). Below are photos of Robert giving a talk and Rosch presenting his poster.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lab Christmas Social 2024</title>
+      <link>http://localhost:40295/post/24-12-06-christmas/</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40295/post/24-12-06-christmas/</guid>
+      <description>&lt;p&gt;The lab celebrated Advent at a Christmas market.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>11th Munich Cancer Retreat</title>
+      <link>http://localhost:40295/post/24-07-30-dktk_retreat/</link>
+      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40295/post/24-07-30-dktk_retreat/</guid>
+      <description>&lt;p&gt;Robert presenting our data on inference of tumor microenvironment subtypes from HPV negative HNSC!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Radiomics-based prediction of local tumor control in patients with brain metastases after stereotactic radiosurgery</title>
+      <link>http://localhost:40295/publication/unger-2024-radiomics/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40295/publication/unger-2024-radiomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiation Oncology tour</title>
+      <link>http://localhost:40295/post/23-12-01-radonc/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40295/post/23-12-01-radonc/</guid>
+      <description>&lt;p&gt;New and senior KITSO lab members recently gathered at the LMU Hospital&amp;rsquo;s Department of Radiation Oncology for a tour and detailed explanation of diagnostic and treatment procedures, including MR-guided radiotherapy and other techniques. Many thanks to our clinical colleagues for hosting us!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-omics integration for therapy response prediction in head and neck squamous cell carcinoma</title>
+      <link>http://localhost:40295/publication/unger-2023-multiomics/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40295/publication/unger-2023-multiomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA methylation signatures predict outcome in locally advanced non-small cell lung cancer patients treated with chemoradiotherapy</title>
+      <link>http://localhost:40295/publication/unger-2023-nsclc/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40295/publication/unger-2023-nsclc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circulating tumor DNA dynamics during radiotherapy as early marker for treatment response in solid tumors</title>
+      <link>http://localhost:40295/publication/unger-2022-ctdna/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40295/publication/unger-2022-ctdna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>http://localhost:40295/contact/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>http://localhost:40295/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People</title>
-      <link>http://localhost:1313/people/</link>
+      <link>http://localhost:40295/people/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/people/</guid>
+      <guid>http://localhost:40295/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tour</title>
-      <link>http://localhost:1313/tour/</link>
+      <link>http://localhost:40295/tour/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tour/</guid>
+      <guid>http://localhost:40295/tour/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title>
-      <link>http://localhost:1313/post/20-12-02-icml-best-paper/</link>
-      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/20-12-02-icml-best-paper/</guid>
-      <description>&lt;p&gt;Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
-&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
-&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
+      <title>Epigenetic profiling identifies prognostic subgroups in HPV-positive head and neck cancer</title>
+      <link>http://localhost:40295/publication/unger-2022-hnscc/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40295/publication/unger-2022-hnscc/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Richard Hendricks Wins First Place in the Wowchemy Prize</title>
-      <link>http://localhost:1313/post/20-12-01-wowchemy-prize/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/20-12-01-wowchemy-prize/</guid>
-      <description>&lt;p&gt;Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
-&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
-&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
+      <title>DNA methylation-based classification and prognosis in soft tissue sarcomas</title>
+      <link>http://localhost:40295/publication/unger-2021-methylation/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40295/publication/unger-2021-methylation/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>http://localhost:1313/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Integrative biomarker discovery for radiation resistance in locally advanced rectal cancer</title>
+      <link>http://localhost:40295/publication/unger-2020-biomarker/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40295/publication/unger-2020-biomarker/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>http://localhost:1313/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>http://localhost:1313/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Radiation-induced DNA methylation changes as predictive biomarkers in HNSCC</title>
+      <link>http://localhost:40295/publication/unger-2019-radiation/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:40295/publication/unger-2019-radiation/</guid>
+      <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/admin/config.yml</link>
+      <link>http://localhost:40295/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/admin/config.yml</guid>
+      <guid>http://localhost:40295/admin/config.yml</guid>
       <description></description>
     </item>
     

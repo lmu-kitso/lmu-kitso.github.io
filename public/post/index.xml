@@ -1,37 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Latest News | LMU KITSO - AI assisted therapy decisions in oncology</title>
-    <link>http://localhost:1313/post/</link>
-      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Latest News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <title>News | KITSO Research Group</title>
+    <link>http://localhost:35149/post/</link>
+      <atom:link href="http://localhost:35149/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_c50953f9b5492ab1.png</url>
-      <title>Latest News</title>
-      <link>http://localhost:1313/post/</link>
+      <url>http://localhost:35149/media/icon_hu_c50953f9b5492ab1.png</url>
+      <title>News</title>
+      <link>http://localhost:35149/post/</link>
     </image>
     
     <item>
-      <title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title>
-      <link>http://localhost:1313/post/20-12-02-icml-best-paper/</link>
-      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/20-12-02-icml-best-paper/</guid>
-      <description>&lt;p&gt;Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
-&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
-&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
+      <title>Lab Christmas Social 2025</title>
+      <link>http://localhost:35149/post/25-12-04-christmas/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35149/post/25-12-04-christmas/</guid>
+      <description>&lt;p&gt;Kitso lab members spent a fun late afternoon at Munich’s Christmas markets and concluded the evening at a Bavarian Wirtshaus. Merry Christmas!&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Richard Hendricks Wins First Place in the Wowchemy Prize</title>
-      <link>http://localhost:1313/post/20-12-01-wowchemy-prize/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/20-12-01-wowchemy-prize/</guid>
-      <description>&lt;p&gt;Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
-&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
-&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
+      <title>Kitso @ LMU RadOnc Octoberfest Social 2025</title>
+      <link>http://localhost:35149/post/25-09-23-wiesn/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35149/post/25-09-23-wiesn/</guid>
+      <description>&lt;p&gt;Kitso gathered for the Radiation Oncology department&amp;rsquo;s annual Oktoberfest outing. Great food and even better company to kick off fall!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>12th Munich Cancer Retreat</title>
+      <link>http://localhost:35149/post/25-07-25-dktk_retreat/</link>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35149/post/25-07-25-dktk_retreat/</guid>
+      <description>&lt;p&gt;Kristian and lab members attended the 12th Munich Cancer Retreat of the German Cancer Consortium (DKTK). Below are photos of Robert giving a talk and Rosch presenting his poster.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lab Christmas Social 2024</title>
+      <link>http://localhost:35149/post/24-12-06-christmas/</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35149/post/24-12-06-christmas/</guid>
+      <description>&lt;p&gt;The lab celebrated Advent at a Christmas market.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>11th Munich Cancer Retreat</title>
+      <link>http://localhost:35149/post/24-07-30-dktk_retreat/</link>
+      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35149/post/24-07-30-dktk_retreat/</guid>
+      <description>&lt;p&gt;Robert presenting our data on inference of tumor microenvironment subtypes from HPV negative HNSC!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Radiation Oncology tour</title>
+      <link>http://localhost:35149/post/23-12-01-radonc/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35149/post/23-12-01-radonc/</guid>
+      <description>&lt;p&gt;New and senior KITSO lab members recently gathered at the LMU Hospital&amp;rsquo;s Department of Radiation Oncology for a tour and detailed explanation of diagnostic and treatment procedures, including MR-guided radiotherapy and other techniques. Many thanks to our clinical colleagues for hosting us!&lt;/p&gt;
+</description>
     </item>
     
   </channel>

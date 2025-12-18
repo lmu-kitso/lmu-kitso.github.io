@@ -90,4 +90,4 @@ highlight_name: false
 user_groups:
   - Postdoctoral Researchers
 ---
-<p>Robert is a postdoctoral researcher in computational biology and data science, focusing on HNSCC tumor microenvironments and building computational pipelines for multi-omics and radiomics.</p>
+<p>Robert did his PhD at the TUM School of Life Sciences and is now a postdoctoral researcher in computational biology and data science. His work focuses on HNSCC tumor microenvironments and the development of computational pipelines for multi-omics and radiomics.</p>

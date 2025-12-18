@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Radiotherapy | KITSO Research Group</title>
+    <link>http://localhost:1313/tag/radiotherapy/</link>
+      <atom:link href="http://localhost:1313/tag/radiotherapy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Radiotherapy</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_c50953f9b5492ab1.png</url>
+      <title>Radiotherapy</title>
+      <link>http://localhost:1313/tag/radiotherapy/</link>
+    </image>
+    
+    <item>
+      <title>Multi-omics integration for therapy response prediction in head and neck squamous cell carcinoma</title>
+      <link>http://localhost:1313/publication/unger-2023-multiomics/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/unger-2023-multiomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circulating tumor DNA dynamics during radiotherapy as early marker for treatment response in solid tumors</title>
+      <link>http://localhost:1313/publication/unger-2022-ctdna/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/unger-2022-ctdna/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

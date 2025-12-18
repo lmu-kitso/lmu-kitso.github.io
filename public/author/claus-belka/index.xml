@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Claus Belka | KITSO Research Group</title>
+    <link>http://localhost:35149/author/claus-belka/</link>
+      <atom:link href="http://localhost:35149/author/claus-belka/index.xml" rel="self" type="application/rss+xml" />
+    <description>Claus Belka</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:35149/media/icon_hu_c50953f9b5492ab1.png</url>
+      <title>Claus Belka</title>
+      <link>http://localhost:35149/author/claus-belka/</link>
+    </image>
+    
+    <item>
+      <title>Radiomics-based prediction of local tumor control in patients with brain metastases after stereotactic radiosurgery</title>
+      <link>http://localhost:35149/publication/unger-2024-radiomics/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35149/publication/unger-2024-radiomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA methylation signatures predict outcome in locally advanced non-small cell lung cancer patients treated with chemoradiotherapy</title>
+      <link>http://localhost:35149/publication/unger-2023-nsclc/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35149/publication/unger-2023-nsclc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circulating tumor DNA dynamics during radiotherapy as early marker for treatment response in solid tumors</title>
+      <link>http://localhost:35149/publication/unger-2022-ctdna/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35149/publication/unger-2022-ctdna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrative biomarker discovery for radiation resistance in locally advanced rectal cancer</title>
+      <link>http://localhost:35149/publication/unger-2020-biomarker/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:35149/publication/unger-2020-biomarker/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

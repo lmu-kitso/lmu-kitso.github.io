@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Patryk Dąbkowski | LMU KITSO - AI assisted therapy decisions in oncology</title>
-    <link>http://localhost:1313/author/patryk-dabkowski/</link>
-      <atom:link href="http://localhost:1313/author/patryk-dabkowski/index.xml" rel="self" type="application/rss+xml" />
+    <title>Patryk Dąbkowski | KITSO Research Group</title>
+    <link>http://localhost:35149/author/patryk-dabkowski/</link>
+      <atom:link href="http://localhost:35149/author/patryk-dabkowski/index.xml" rel="self" type="application/rss+xml" />
     <description>Patryk Dąbkowski</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/patryk-dabkowski/avatar_hu_1a8565f1c9ad7fb4.png</url>
+      <url>http://localhost:35149/author/patryk-dabkowski/avatar_hu_1a8565f1c9ad7fb4.png</url>
       <title>Patryk Dąbkowski</title>
-      <link>http://localhost:1313/author/patryk-dabkowski/</link>
+      <link>http://localhost:35149/author/patryk-dabkowski/</link>
     </image>
     
   </channel>

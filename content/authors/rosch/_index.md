@@ -71,4 +71,4 @@ highlight_name: false
 user_groups:
   - Students
 ---
-<p>This is space is to be filled with HTML</p>
+<p>Rosch is a final-year medical student at Ludwig-Maximilians-Universität Munich.</p>

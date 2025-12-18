@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HPV | KITSO Research Group</title>
+    <link>http://localhost:1313/tag/hpv/</link>
+      <atom:link href="http://localhost:1313/tag/hpv/index.xml" rel="self" type="application/rss+xml" />
+    <description>HPV</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_c50953f9b5492ab1.png</url>
+      <title>HPV</title>
+      <link>http://localhost:1313/tag/hpv/</link>
+    </image>
+    
+    <item>
+      <title>Epigenetic profiling identifies prognostic subgroups in HPV-positive head and neck cancer</title>
+      <link>http://localhost:1313/publication/unger-2022-hnscc/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/unger-2022-hnscc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
