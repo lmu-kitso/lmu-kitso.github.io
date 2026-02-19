@@ -36,5 +36,5 @@ highlight_name: false
 user_groups:
   - Alumni
 ---
-<p><strong>Visiting Research Fellow (2024–2025) → PhD Student, TUM, Quantum Computing</strong></p>
+<p><strong>Visiting Research Fellow (2024–2025) → Now: PhD Student, TUM, Quantum Computing</strong></p>
 <p>Patryk graduated from The Silesian University of Technology with a Master of Science and is a Deep Learning engineer specializing in computer vision and signal processing for multimodal clinical decision support systems in oncology.</p>

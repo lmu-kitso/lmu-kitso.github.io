@@ -14,7 +14,7 @@ sections:
         
         Group Leader: Prof. Dr. Kristian Unger
 
-        **Positions (updated December 2025)**
+        **Positions (updated February 2026)**
         
         At present, we do not have any postdoctoral or PhD positions available.
 

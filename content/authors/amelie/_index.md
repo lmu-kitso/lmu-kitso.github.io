@@ -70,6 +70,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students
+  - Alumni
 ---
-<p>Amelie is a working student at KITSO and an undergraduate medical engineering student at FAU Erlangen. She is currently working with prostate carcinoma RNA-seq data.</p>
+<p><strong>Undergraduate Research Assistant (2024–2025) → Now: Undergraduate Student, FAU Erlangen, Biomedical Engineering</strong></p>
+<p>Amelie is a working student at KITSO and an undergraduate biomedical engineering student at FAU Erlangen. She is currently working with prostate carcinoma RNA-seq data.</p>
