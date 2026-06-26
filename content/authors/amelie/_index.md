@@ -72,5 +72,5 @@ highlight_name: false
 user_groups:
   - Alumni
 ---
-<p><strong>Undergraduate Research Assistant (2024–2025) → Now: Undergraduate Student, FAU Erlangen, Biomedical Engineering</strong></p>
+<p><strong>Undergraduate Research Assistant (2024–2025) → Now: Master's Student, FAU Erlangen, Computer Science</strong></p>
 <p>Amelie is a working student at KITSO and an undergraduate biomedical engineering student at FAU Erlangen. She is currently working with prostate carcinoma RNA-seq data.</p>
