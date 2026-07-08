@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Zuzanna Proska
+title: Zuzanna Proksa
 
 # Full Name (for SEO)
 first_name: Zuzanna
-last_name: Proska
+last_name: Proksa
 
 # Is this the primary user of the site?
 superuser: false
