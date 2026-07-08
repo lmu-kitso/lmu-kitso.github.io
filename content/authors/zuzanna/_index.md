@@ -20,7 +20,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zuzanna.proska@med.uni-muenchen.de'
+    link: 'mailto:zuzanna.proksa@med.uni-muenchen.de'
   - icon: github
     icon_pack: fab
     link: https://github.com/orgs/lmu-kitso
