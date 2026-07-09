@@ -36,4 +36,4 @@ highlight_name: false
 user_groups:
   - Visitors
 ---
-<p>Zuzanna is an ERASMUS-funded intern at KITSO and is currently studying at the Silesian University of Technology.</p>
+<p>Zuzanna is an ERASMUS-funded intern at KITSO and is currently a Master's student at the Silesian University of Technology studying biomedical engineering.</p>
