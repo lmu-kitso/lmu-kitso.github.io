@@ -24,6 +24,10 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/orgs/lmu-kitso
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/zuzanna-proksa-9566bb2ba
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
