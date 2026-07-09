@@ -47,7 +47,7 @@ social:
     link: 'mailto:amelie.daum@med.uni-muenchen.de'
   - icon: linkedin
     icon_pack: fab
-    link: https://de.linkedin.com/in/amelie-daum-71861a238
+    link: https://www.linkedin.com/in/amelie-luka-daum-71861a238/
 #  - icon: pubmed
 #    icon_pack: ai
 #    link: https://www.ncbi.nlm.nih.gov/myncbi/kristian.unger.1/bibliography/public/
