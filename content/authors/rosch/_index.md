@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Students
 ---
-<p><strong>Graduate Research Assistant (2024–2026) → Now: Resident Physician, Stuttgart</strong></p>
+<!--<p><strong>Graduate Research Assistant (2024–2026) → Now: Resident Physician, Stuttgart</strong></p>-->
 <p>Rosch is a final-year medical student at Ludwig-Maximilians-Universität Munich.</p>
