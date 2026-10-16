@@ -10,7 +10,7 @@ last_name: Hummel
 superuser: false
 
 # Role/position
-role: Undergraduate Research Assistant
+role: Graduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -57,4 +57,4 @@ highlight_name: false
 user_groups:
   - Students
 ---
-<p>Jan joined Kitso in August 2023 and is currently a senior in the joint Bioinformatics program at TUM and LMU Munich. His research focusses on miRNA signatures, signaling pathways, and transformer-based models for subtyping HNSCC tumor microenvironments.</p>
+<p>Jan joined KITSO in August 2023 as an undergraduate student in the joint Bioinformatics program at TUM and LMU Munich. He is now pursuing an MPhil in Computational Biology at the Department of Applied Mathematics and Theoretical Physics at the University of Cambridge. At Kitso, his research focuses on miRNA signatures, signaling pathways, and transformer-based models for characterizing head and neck squamous cell carcinoma (HNSCC) tumor microenvironments, as well as applying transformer architectures to whole-slide image (WSI) analysis.</p>
