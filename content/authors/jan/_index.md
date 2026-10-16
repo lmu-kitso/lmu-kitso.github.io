@@ -57,4 +57,4 @@ highlight_name: false
 user_groups:
   - Students
 ---
-<p>Jan joined KITSO in August 2023 as an undergraduate student in the joint Bioinformatics program at TUM and LMU Munich. He is now pursuing an MPhil in Computational Biology at the Department of Applied Mathematics and Theoretical Physics at the University of Cambridge. At Kitso, his research focuses on miRNA signatures, signaling pathways, and transformer-based models for characterizing head and neck squamous cell carcinoma (HNSCC) tumor microenvironments, as well as applying transformer architectures to whole-slide image (WSI) analysis.</p>
+<p>Jan joined KITSO in 2023 as an undergraduate student in the joint Bioinformatics program at TUM and LMU Munich. He is now pursuing an MPhil in Computational Biology at the Department of Applied Mathematics and Theoretical Physics at the University of Cambridge. At Kitso, his research focuses on miRNA signatures, signaling pathways, and transformer-based models for characterizing head and neck squamous cell carcinoma (HNSCC) tumor microenvironments, as well as applying transformer architectures to whole-slide image (WSI) analysis.</p>
